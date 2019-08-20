@@ -161,7 +161,7 @@
   branch = "master"
   name = "github.com/skeema/mybase"
   packages = ["."]
-  revision = "052eda2c53cef9adbd8f3814805a3eeff32b6dd9"
+  revision = "5564c3bc3854e1b7a6d5564085295cb4f376a316"
 
 [[projects]]
   branch = "master"
